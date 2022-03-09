@@ -19,3 +19,6 @@ console.log(retangulo1.area())
 
 let retangulo2 = new Retangulo(30,60);
 console.log(retangulo2.area())
+
+let retangulo3 = new Retangulo(60,80);
+console.log(retangulo3.area())
